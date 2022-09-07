@@ -1,0 +1,7 @@
+{
+  "instructionText": "🎯🎯🎯\nput the bullseye as close as you can to",
+  "slider": {
+      "minValue": "0",
+      "maxValue": "100"
+  }
+}
